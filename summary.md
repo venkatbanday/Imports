@@ -1,14 +1,17 @@
-# Export/Import Freight Savings
+Export/Import Freight Optimization
 
-**Overview:**  
-Ocean freight was handled via a single forwarder without cost transparency.
+Objective:
 
-**Steps Taken:**  
-- Sourced competitive quotes across multiple liners.
-- Negotiated longer free periods and port changes to reduce demurrage.
-- Aligned contract terms with actual freight cost and destination-specific factors.
+To streamline international shipping logistics and reduce demurrage and warehousing costs.
 
-**Results:**  
-- Significant profit increases through freight optimization.
-- Eliminated unnecessary warehousing.
-- Cost-effective import/export flows.
+•	Highlights:
+
+• Negotiated extended free days from shipping liners and container freight stations.
+
+• Switched destination ports based on last-mile cost analysis.
+
+• Planned dispatches real-time, avoiding warehousing needs.
+
+Impact:
+
+Reduced ocean freight costs and improved export-import cycle profitability.
