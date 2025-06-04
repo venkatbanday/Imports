@@ -1,3 +1,21 @@
+Export/Import Freight Optimisation – 3F Industries, India
+
+Overview:
+
+Optimised international shipping operations to reduce demurrage, warehousing, and end-to-end freight costs.
+
+Key Achievements:
+
+• Negotiated extended free days with liners and container freight stations.
+
+• Shifted destination ports based on last-mile logistics cost modelling.
+
+• Planned real-time dispatches, reducing the need for intermediate warehousing.
+
+Keywords:
+
+Export/Import Operations | Freight Optimisation | Port Logistics | Demurrage Control | Real-Time Dispatch | International Shipping | Cost Modelling | Supply Chain Strategy
+
 **Imports**
 
 There is a volume of 1,500 to 2,000 containers being imported from West Africa, specifically for shea nuts destined for India. Ocean freight rates have been finalized from the loading port to Chennai.
