@@ -1,17 +1,17 @@
-Export/Import Freight Optimization
+Export/Import Freight Optimisation – 3F Industries, India
 
-Objective:
+Overview:
 
-To streamline international shipping logistics and reduce demurrage and warehousing costs.
+Optimised international shipping operations to reduce demurrage, warehousing, and end-to-end freight costs.
 
-•	Highlights:
+Key Achievements:
 
-• Negotiated extended free days from shipping liners and container freight stations.
+• Negotiated extended free days with liners and container freight stations.
 
-• Switched destination ports based on last-mile cost analysis.
+• Shifted destination ports based on last-mile logistics cost modelling.
 
-• Planned dispatches real-time, avoiding warehousing needs.
+• Planned real-time dispatches, reducing the need for intermediate warehousing.
 
-Impact:
+Keywords:
 
-Reduced ocean freight costs and improved export-import cycle profitability.
+Export/Import Operations | Freight Optimisation | Port Logistics | Demurrage Control | Real-Time Dispatch | International Shipping | Cost Modelling | Supply Chain Strategy
